@@ -1,0 +1,45 @@
+    # DICITONARY LOOPP
+thisdict = {
+    "brand": "ford",
+    "model": "mustang,"
+}
+print(thisdict)
+thisdict.update({"year": "2345"})
+thisdict.update({"color": "red"})
+thisdict.update({'engine': "boss77"})
+print(thisdict)
+thisdict.update({"brand": "audi", "model": "Q3"})
+print(thisdict)
+
+thisdict.pop("model")
+print(thisdict)
+thisdict.clear()
+print(thisdict)
+# 4556
+thisdict = {
+    "brand": "ford",
+    "model": "mustang",
+}
+for x in thisdict.values():
+    print(x)
+for x in thisdict.keys():
+    print(x)
+for x, y in thisdict.items():
+    print(x, y)
+mydict = thisdict.copy()
+print(mydict)
+mydict = dict(thisdict)
+print(mydict)
+# nessted
+myfamily = {
+    "child1": {
+        "name": "adharsh",
+        "age": 18
+    },
+    "child2": {
+        "name": "akshay",
+        "age": 23
+    }
+
+}
+print(myfamily)
