@@ -1,0 +1,59 @@
+a = 983
+b = 955
+print(a+b)
+# 567
+a = 674
+b = 198
+if b < a:
+    print("jhdgu")
+# 2445
+c = 767878
+d = 64878
+if d > c:
+    print("jhfis")
+elif c == d:
+    print("kjskhfncub")
+else:
+    print("rahel varkacha")
+# 35463
+e = 989097
+f = 8277478
+if e < f:
+    print("you are good")
+else:
+    print("you are the stupid person i have ever seen")
+    # shorthand if
+    a = 86329887
+    b = 283764767
+if a > b:
+    print('yfg')
+if a < b:
+    print("jdfgif")
+    # 5235sdfjsdj
+# shorthandelid
+if a > b:
+    print("dcivc")
+# 6678643hjid
+a = 83786
+b = 837673
+c = 983773
+if a > b and b < c:
+    print("These national associations must each also be members of one of the six regionalconfederations into which the world divided: Africa, Asia, Europe, North & Central America and the Caribbean, Oceania and South America.")
+elif a < c and b < c:
+    print('why are you so sad its doesnt mean that you are going to the best in the world so mind it fuckerrdont awweeee ')
+else:
+    print("rocky is a monster")
+# 909883
+a = 987378
+b = 8943789
+c = 8838847
+if b > c or a < c:
+    print("ramesh is a type of a guy who doesn't show feelings so move on yaar")
+    # nested if
+    x = 41
+if x > 10:
+    print("baove all  are the smae")
+if x < 78:
+    print("ramani is the best way to succes ")
+else:
+    print(" am gona die")
